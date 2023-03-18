@@ -1,43 +1,43 @@
 //small
-new Twitch.Embed("twitch-flowmino", {
-    width: 480,
-    height: 270,
-    channel: "FlowMino",
-    layout: "video",
-    allowfullscreen:true
-})
-new Twitch.Embed("twitch-megalosteam", {
+new Twitch.Embed("twitch-team1", {
     width: 480,
     height: 270,
     channel: "megalosteam",
     layout: "video",
     allowfullscreen:true
 })
-new Twitch.Embed("twitch-jennyie", {
+new Twitch.Embed("twitch-team2", {
     width: 480,
     height: 270,
-    channel: "jennyie_",
+    channel: "megalosteam",
     layout: "video",
     allowfullscreen:true
 })
-new Twitch.Embed("twitch-kanumera", {
+new Twitch.Embed("twitch-team3", {
     width: 480,
     height: 270,
-    channel: "Kanumera_",
+    channel: "megalosteam",
     layout: "video",
     allowfullscreen:true
 })
-new Twitch.Embed("twitch-mogwai", {
+new Twitch.Embed("twitch-team4", {
     width: 480,
     height: 270,
-    channel: "Mogwai_J_NY",
+    channel: "megalosteam",
     layout: "video",
     allowfullscreen:true
 })
-new Twitch.Embed("twitch-suddiste", {
+new Twitch.Embed("twitch-team5", {
     width: 480,
     height: 270,
-    channel: "suddiste",
+    channel: "megalosteam",
+    layout: "video",
+    allowfullscreen:true
+})
+new Twitch.Embed("twitch-team6", {
+    width: 480,
+    height: 270,
+    channel: "megalosteam",
     layout: "video",
     allowfullscreen:true
 })
